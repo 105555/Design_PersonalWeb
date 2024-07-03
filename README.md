@@ -1,4 +1,12 @@
-# Week2_PersonalWeb
+# 個人網站版型設計
 
-### Github Pages : https://105555.github.io/Week2_PersonalWeb/
- - 以熟練flex為出發點，使用flex做版型規劃
+## Local 端啟用步驟
+### VsCode
+1. Download 延伸模組 LiveServer
+2. 啟用即可啟動 
+
+## 資料夾結構
+  - css # scss 編譯後放置處
+  - scss # scss 放置處
+
+### 專案呈現 : <https://105555.github.io/Design_PersonalWeb/>
